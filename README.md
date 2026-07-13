@@ -8,6 +8,8 @@ A console-based Bank Management System built using Core Java to practice Object-
 - Deposit Money
 - Withdraw Money
 - Search Account
+- Transfer Money
+- Delete Account
 - Display All Accounts
 
 ## Concepts Used
@@ -25,8 +27,6 @@ A console-based Bank Management System built using Core Java to practice Object-
 - Eclipse IDE
 
 ## Future Improvements
-- Transfer Money
-- Delete Account
 - File Handling
 - JDBC with MySQL
 - Savings & Current Account implementation
